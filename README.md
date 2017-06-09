@@ -1,4 +1,4 @@
-# Fluencias-de-Rayos-Cosmicos
+# Fluencias de Rayos Cosmicos
 Códigos para el análisis de Fluencias de Rayos Cósmicos.
 
 + Para ejecutar el código **_flux_buca_filter.ipynb_** es necesario tener el archivo de datos **_muones_buca_1h.out.tar.gz_**
