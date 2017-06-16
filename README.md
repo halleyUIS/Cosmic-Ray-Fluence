@@ -1,9 +1,9 @@
-# Fluencias de Rayos Cosmicos
-Códigos para el análisis de Fluencias de Rayos Cósmicos.
+# Cosmic Ray Fluence
+Codes for the analysis of cosmic ray fluences.
 
-+ Para ejecutar el código **_flux_buca_filter.ipynb_** es necesario tener el archivo de datos **_muones_buca_1h.out.tar.gz_**
-+ Para ejecutar el código **_flux_filter_machinp1.ipynb_** es necesario tener el archivo de datos **_totalrealMachin_sample.out.tar.gz_** (El archivo de datos original posee 25M de filas, este archivo acá es una muestra y posee 1.5M de filas)
++ To execute the code **_flux_buca_filter.ipynb_** it is necessary to have the data file **_muones_buca_1h.out.tar.gz_**
++ To execute the code **_flux_filter_machinp1.ipynb_** it is necessary to have the data file **_totalrealMachin_sample.out.tar.gz_** (The original data file has 25M of rows, this file here is a sample and has 1.5M of rows)
 
-Descripción general:
-+ El primero de los códigos tiene la finalidad de calcular el flujo integrado y flujo diferencial de rayos cósmicos, haciendo las suposiciones convenientes.
-+ El segundo de los códigos hace lo mismo que el primero y prepara los archivos de datos necesarios para poder ejecutar códigos de propagación de muones en roca.
+General description:
++ The first of the codes has the purpose of calculating the integrated and differential flux of cosmic rays, making the assumptions convenient.
+The second of the codes does the same as the first one and prepares the necessary data files to be able to execute codes of propagation of muons in rock.
